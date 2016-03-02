@@ -27,8 +27,7 @@ The player's experience will depend on the game selected:
 	3) Alternate between option 1 and option 2
 	This option will consist alternating between one round of option 1 and one round of option 2. The point structure will be the same as what is used in option 1 and option 2. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
 
-Points Structure 
-There are 2 point structures, one which applies to option 1 and the second applies to option 2. 
+Points Structure: There are 2 point structures, one which applies to option 1 and the second applies to option 2. 
 
 	1) Computer chooses number, player guesses
 	- 1 guess:  100 points
@@ -46,8 +45,7 @@ There are 2 point structures, one which applies to option 1 and the second appli
 	- 2 guesses: 10 points
 	- 1 guess:   05 points	
 
-High Score List
-The player's score will accumulate until player decides to exit the game. Upon exiting the game they will be able to enter their name, which will be stored in the list/dictionary with their name. 
+High Score List: The player's score will accumulate until player decides to exit the game. Upon exiting the game they will be able to enter their name, which will be stored in the list/dictionary with their name. 
 
 # Potential Additional Feature
 - Reward player with fun cat fact, maybe there is an API that can be used for this? 

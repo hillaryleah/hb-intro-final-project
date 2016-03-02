@@ -1,6 +1,7 @@
 # hb-intro-final-project
 
-# Final Project Name: Number Guessing Game
+# Final Project Name: 
+Number Guessing Game
 
 # Summary:
 A number guessing game played from the command line against the computer. The player has 3 options for play: 
@@ -17,19 +18,19 @@ Upon starting the program, the player will be informed of the game rules and wil
 Playing the Game
 The player's experience will depend on the game selected: 
 
-1) Computer chooses the number, player guesses
-The player will have 6 attempts to guess the computer's number. Points earned by the player depends on the number of guesses made. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
+	1) Computer chooses the number, player guesses
+	The player will have 6 attempts to guess the computer's number. Points earned by the player depends on the number of guesses made. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
 
-2) Player chooses number, computer guesses
-The computer will have 6 attempts to guess the player's number. Points earned by the player depends on the number of guesses made by the computer. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
+	2) Player chooses number, computer guesses
+	The computer will have 6 attempts to guess the player's number. Points earned by the player depends on the number of guesses made by the computer. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
 
-3) Alternate between option 1 and option 2
-This option will consist alternating between one round of option 1 and one round of option 2. The point structure will be the same as what is used in option 1 and option 2. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
+	3) Alternate between option 1 and option 2
+	This option will consist alternating between one round of option 1 and one round of option 2. The point structure will be the same as what is used in option 1 and option 2. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
 
 Points Structure 
 There are 2 point structures, one which applies to option 1 and the second applies to option 2. 
 
-1) Computer chooses number, player guesses
+	1) Computer chooses number, player guesses
 	- 1 guess:  100 points
 	- 2 guesses: 50 points
 	- 3 guesses: 30 points
@@ -37,7 +38,7 @@ There are 2 point structures, one which applies to option 1 and the second appli
 	- 5 guesses: 10 points
 	- 6 guesses: 05 points
 
-2) Player chooses number, computer guesses
+	2) Player chooses number, computer guesses
 	- 6 guesses: 100 points
 	- 5 guesses: 50 points
 	- 4 guesses: 30 points
@@ -75,13 +76,14 @@ High score list
 Try and Except
 - Need to get more familiar with how to use this
 
-Cat facts api
+Cat facts api?
 - Is there a cat facts api? 
 - If yes, how do I use it?
 
 # Pseudocode
 
 Shell File
+
 print "Welcome. These are the rules of the game."
 game_choice = raw input ("what option to you want to play?")
 
@@ -96,6 +98,7 @@ elif game_choice = exit:
 	score1 = {'user_name':'user_score'}
 
 Game File 
+
 print "Option 1 rules."
 conditionals for option 1
 call to the cat file api 

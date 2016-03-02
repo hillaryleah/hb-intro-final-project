@@ -1,9 +1,9 @@
 # hb-intro-final-project
 
-# Final Project Name: 
+# Final Project Name
 Number Guessing Game
 
-# Summary:
+# Summary
 A number guessing game played from the command line against the computer. The player has 3 options for play: 
 	
 	1) Computer chooses number, player guesses
@@ -12,11 +12,9 @@ A number guessing game played from the command line against the computer. The pl
 
 # User Flow 
 
-Opening the Program
-Upon starting the program, the player will be informed of the game rules and will be prompted to choose an option to begin playing. 
+Opening the Program: Upon starting the program, the player will be informed of the game rules and will be prompted to choose an option to begin playing. 
 
-Playing the Game
-The player's experience will depend on the game selected: 
+Playing the Game: The player's experience will depend on the game selected: 
 
 	1) Computer chooses the number, player guesses
 	The player will have 6 attempts to guess the computer's number. Points earned by the player depends on the number of guesses made. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 
@@ -47,7 +45,7 @@ Points Structure: There are 2 point structures, one which applies to option 1 an
 
 High Score List: The player's score will accumulate until player decides to exit the game. Upon exiting the game they will be able to enter their name, which will be stored in the list/dictionary with their name. 
 
-# Potential Additional Feature
+# Potential Additional Features
 - Reward player with fun cat fact, maybe there is an API that can be used for this? 
 - Ability to save player profile and keep continuous score
 - Sassy computer comebacks for high or low scores

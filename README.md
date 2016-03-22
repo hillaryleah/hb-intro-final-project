@@ -7,7 +7,7 @@ A cat themed game with 2 game options:
 
 # User Flow 
 
-Opening the Program: User will be presented with a main menu with the following options: 
+Upon opening the Program, user will be presented with a main menu with the following options: 
 
 	1) Computer chooses the number, player guesses
 	The player will have 6 attempts to guess the computer's number. Points earned by the player depends on the number of guesses made. Once a round is completed, the player will have the option to keep playing or switch to a different option for play. 

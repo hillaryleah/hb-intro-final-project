@@ -1,5 +1,3 @@
-# hb-intro-final-project
-
 # Summary
 A cat themed game with 2 game options:
 	

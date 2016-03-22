@@ -1,8 +1,5 @@
 # hb-intro-final-project
 
-# Final Project Name
-Number Guessing Game
-
 # Summary
 A cat themed game with 2 game options:
 	
